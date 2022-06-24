@@ -1,0 +1,2514 @@
+{
+  "__creator__": "20190138/Sctopzhang",
+  "__license__": "MIT License",
+  "__update_date__": {
+    "price": "2022/06/24",
+    "energy": "2022/06/24"
+  },
+  "data": [
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 1,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "奶香南瓜",
+        "price": 4.5,
+        "net_content": 60,
+        "price_quantity": "",
+        "net_content_per_yuan": 13.33,
+        "energy": {
+          "label": 1293,
+          "total": 775.8,
+          "per_yuan": 172.4
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "2022/6/13",
+      "serial_number": {
+        "main": 1,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "[降]奶香南瓜",
+        "price": 4.0,
+        "net_content": 60,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.0,
+        "energy": {
+          "label": 1293,
+          "total": 775.8,
+          "per_yuan": 193.95
+        }
+      },
+      "comment": "2022/6/13"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 2,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "香葱墨西哥",
+        "price": 3.5,
+        "net_content": 75,
+        "price_quantity": "",
+        "net_content_per_yuan": 21.43,
+        "energy": {
+          "label": 1393,
+          "total": 1044.75,
+          "per_yuan": 298.5
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 3,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "海苔肉松",
+        "price": 3.5,
+        "net_content": 60,
+        "price_quantity": "",
+        "net_content_per_yuan": 17.14,
+        "energy": {
+          "label": 1293,
+          "total": 775.8,
+          "per_yuan": 221.66
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 4,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "肉松面块",
+        "price": 5.5,
+        "net_content": 80,
+        "price_quantity": "2片",
+        "net_content_per_yuan": 14.55,
+        "energy": {
+          "label": 1293,
+          "total": 1034.4,
+          "per_yuan": 188.07
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 5,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "葡萄吐司",
+        "price": 5.5,
+        "net_content": 135,
+        "price_quantity": "2片",
+        "net_content_per_yuan": 24.55,
+        "energy": {
+          "label": 1393,
+          "total": 1880.55,
+          "per_yuan": 341.92
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 5,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "[降价]葡萄吐司",
+        "price": 5.0,
+        "net_content": 135,
+        "price_quantity": "",
+        "net_content_per_yuan": 27.0,
+        "energy": {
+          "label": 1393,
+          "total": 1880.55,
+          "per_yuan": 376.11
+        }
+      },
+      "comment": "吐司类降价"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 6,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "椰蓉餐包",
+        "price": 2.5,
+        "net_content": 45,
+        "price_quantity": "",
+        "net_content_per_yuan": 18.0,
+        "energy": {
+          "label": 1193,
+          "total": 536.85,
+          "per_yuan": 214.74
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 6,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "[降价]椰蓉餐包",
+        "price": 2.0,
+        "net_content": 45,
+        "price_quantity": "",
+        "net_content_per_yuan": 22.5,
+        "energy": {
+          "label": 1193,
+          "total": 536.85,
+          "per_yuan": 268.43
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 7,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "毛毛虫",
+        "price": 3.5,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1293,
+          "total": 905.1,
+          "per_yuan": 258.6
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 8,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "甜芝士",
+        "price": 3.5,
+        "net_content": 75,
+        "price_quantity": "",
+        "net_content_per_yuan": 21.43,
+        "energy": {
+          "label": 1293,
+          "total": 969.75,
+          "per_yuan": 277.07
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 9,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "杏仁条",
+        "price": 6.0,
+        "net_content": 49,
+        "price_quantity": "8根",
+        "net_content_per_yuan": 8.17,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "已永久下架"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 10,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "奶酥",
+        "price": 3.5,
+        "net_content": 65,
+        "price_quantity": "",
+        "net_content_per_yuan": 18.57,
+        "energy": {
+          "label": 1293,
+          "total": 840.45,
+          "per_yuan": 240.13
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 11,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "黑胡椒培根",
+        "price": 4.5,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.56,
+        "energy": {
+          "label": 1283,
+          "total": 898.1,
+          "per_yuan": 199.58
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 12,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "焗糖肠仔",
+        "price": 6.0,
+        "net_content": 90,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.0,
+        "energy": {
+          "label": 1293,
+          "total": 1163.7,
+          "per_yuan": 193.95
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 13,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "岩松面包",
+        "price": 6.0,
+        "net_content": 105,
+        "price_quantity": "",
+        "net_content_per_yuan": 17.5,
+        "energy": {
+          "label": 1293,
+          "total": 1357.65,
+          "per_yuan": 226.28
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "2022/4/23",
+      "serial_number": {
+        "main": 14,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "威多士",
+        "price": 5.0,
+        "net_content": 90,
+        "price_quantity": "",
+        "net_content_per_yuan": 18.0,
+        "energy": {
+          "label": 1292,
+          "total": 1162.8,
+          "per_yuan": 232.56
+        }
+      },
+      "comment": "2022/4/23"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 15,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "黑胡椒三明治",
+        "price": 6.0,
+        "net_content": 120,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1293,
+          "total": 1551.6,
+          "per_yuan": 258.6
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 16,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "豆沙面包",
+        "price": 3.5,
+        "net_content": 80,
+        "price_quantity": "",
+        "net_content_per_yuan": 22.86,
+        "energy": {
+          "label": 1293,
+          "total": 1034.4,
+          "per_yuan": 295.54
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "2022/4/1",
+      "serial_number": {
+        "main": 16,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "[降]豆沙面包",
+        "price": 3.0,
+        "net_content": 60,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1293,
+          "total": 775.8,
+          "per_yuan": 258.6
+        }
+      },
+      "comment": "2022/4/1"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 17,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "抹茶吐司",
+        "price": 5.5,
+        "net_content": 80,
+        "price_quantity": "",
+        "net_content_per_yuan": 14.55,
+        "energy": {
+          "label": 1293,
+          "total": 1034.4,
+          "per_yuan": 188.07
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 17,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "[降价]抹茶吐司",
+        "price": 5.0,
+        "net_content": 80,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.0,
+        "energy": {
+          "label": 1293,
+          "total": 1034.4,
+          "per_yuan": 206.88
+        }
+      },
+      "comment": "吐司类降价"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 18,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "椰蓉吐司",
+        "price": 5.5,
+        "net_content": 125,
+        "price_quantity": "",
+        "net_content_per_yuan": 22.73,
+        "energy": {
+          "label": 1293,
+          "total": 1616.25,
+          "per_yuan": 293.86
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 18,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "[降价]椰蓉吐司",
+        "price": 5.0,
+        "net_content": 125,
+        "price_quantity": "",
+        "net_content_per_yuan": 25.0,
+        "energy": {
+          "label": 1293,
+          "total": 1616.25,
+          "per_yuan": 323.25
+        }
+      },
+      "comment": "吐司类降价"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 19,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "芝士棒",
+        "price": 4.5,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.56,
+        "energy": {
+          "label": 1293,
+          "total": 905.1,
+          "per_yuan": 201.13
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "2022/4/21",
+      "serial_number": {
+        "main": 19,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "[涨价]芝士棒",
+        "price": 5.5,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 12.73,
+        "energy": {
+          "label": 1293,
+          "total": 905.1,
+          "per_yuan": 164.56
+        }
+      },
+      "comment": "2022/4/21"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 20,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "香酥肠仔",
+        "price": 4.5,
+        "net_content": 75,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.67,
+        "energy": {
+          "label": 1293,
+          "total": 969.75,
+          "per_yuan": 215.5
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 21,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "培根三明治",
+        "price": 6.0,
+        "net_content": 120,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1293,
+          "total": 1551.6,
+          "per_yuan": 258.6
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 22,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "肉沙面包",
+        "price": 5.0,
+        "net_content": 60,
+        "price_quantity": "",
+        "net_content_per_yuan": 12.0,
+        "energy": {
+          "label": 1293,
+          "total": 775.8,
+          "per_yuan": 155.16
+        }
+      },
+      "comment": "疑错误数据"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 23,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "巧克力提子",
+        "price": 3.5,
+        "net_content": 80,
+        "price_quantity": "",
+        "net_content_per_yuan": 22.86,
+        "energy": {
+          "label": 1293,
+          "total": 1034.4,
+          "per_yuan": 295.54
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 24,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "椰汁红豆",
+        "price": 4.5,
+        "net_content": 80,
+        "price_quantity": "",
+        "net_content_per_yuan": 17.78,
+        "energy": {
+          "label": 1293,
+          "total": 1034.4,
+          "per_yuan": 229.87
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 25,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "椰蓉甜心",
+        "price": 3.5,
+        "net_content": 65,
+        "price_quantity": "",
+        "net_content_per_yuan": 18.57,
+        "energy": {
+          "label": 1293,
+          "total": 840.45,
+          "per_yuan": 240.13
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 26,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "菠萝面包",
+        "price": 3.5,
+        "net_content": 60,
+        "price_quantity": "",
+        "net_content_per_yuan": 17.14,
+        "energy": {
+          "label": 1283,
+          "total": 769.8,
+          "per_yuan": 219.94
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 27,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "抹茶吐司",
+        "price": 6.0,
+        "net_content": 165,
+        "price_quantity": "",
+        "net_content_per_yuan": 27.5,
+        "energy": {
+          "label": 1140,
+          "total": 1881.0,
+          "per_yuan": 313.5
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 28,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "迷你提子方包",
+        "price": 5.5,
+        "net_content": 165,
+        "price_quantity": "",
+        "net_content_per_yuan": 30.0,
+        "energy": {
+          "label": 1155,
+          "total": 1905.75,
+          "per_yuan": 346.5
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 29,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "奶酪红豆",
+        "price": 5.5,
+        "net_content": 115,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.91,
+        "energy": {
+          "label": 1169,
+          "total": 1344.35,
+          "per_yuan": 244.43
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 29,
+        "sub": 1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "奶酪红豆",
+        "price": 5.0,
+        "net_content": 115,
+        "price_quantity": "",
+        "net_content_per_yuan": 23.0,
+        "energy": {
+          "label": 1169,
+          "total": 1344.35,
+          "per_yuan": 268.87
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 30,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "全麦吐司",
+        "price": 6.0,
+        "net_content": 160,
+        "price_quantity": "",
+        "net_content_per_yuan": 26.67,
+        "energy": {
+          "label": 1246,
+          "total": 1993.6,
+          "per_yuan": 332.27
+        }
+      },
+      "comment": "与49号数据相近"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 31,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "墨西哥",
+        "price": 5.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 32,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "黄金肉松",
+        "price": 5.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 33,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "芝士棒",
+        "price": 5.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 34,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "麻薯",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "2块",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 35,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "甜甜圈",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "1块",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 36,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "黄金椰蓉",
+        "price": 4.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 37,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "菠萝包",
+        "price": 3.0,
+        "net_content": 65,
+        "price_quantity": "",
+        "net_content_per_yuan": 21.67,
+        "energy": {
+          "label": 1180,
+          "total": 767.0,
+          "per_yuan": 255.67
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "2022/3/4",
+      "serial_number": {
+        "main": 37,
+        "sub": 2
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "[降价]菠萝包",
+        "price": 2.5,
+        "net_content": 65,
+        "price_quantity": "",
+        "net_content_per_yuan": 26.0,
+        "energy": {
+          "label": 1180,
+          "total": 767.0,
+          "per_yuan": 306.8
+        }
+      },
+      "comment": "2022/3/4"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 37,
+        "sub": 1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "[促销]菠萝包",
+        "price": 5.0,
+        "net_content": 130,
+        "price_quantity": "2件",
+        "net_content_per_yuan": 26.0,
+        "energy": {
+          "label": 1180,
+          "total": 1534.0,
+          "per_yuan": 306.8
+        }
+      },
+      "comment": "已降价"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 38,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "紫薯餐包",
+        "price": 6.0,
+        "net_content": 160,
+        "price_quantity": "4块",
+        "net_content_per_yuan": 26.67,
+        "energy": {
+          "label": 1111,
+          "total": 1777.6,
+          "per_yuan": 296.27
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 39,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "熊掌面包",
+        "price": 5.5,
+        "net_content": 115,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.91,
+        "energy": {
+          "label": 1158,
+          "total": 1331.7,
+          "per_yuan": 242.13
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 40,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "Q弹麻薯",
+        "price": 8.0,
+        "net_content": 160,
+        "price_quantity": "4块",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1240,
+          "total": 1984.0,
+          "per_yuan": 248.0
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 41,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "椰汁餐包",
+        "price": 6.0,
+        "net_content": 140,
+        "price_quantity": "",
+        "net_content_per_yuan": 23.33,
+        "energy": {
+          "label": 1200,
+          "total": 1680.0,
+          "per_yuan": 280.0
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 42,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "芝士火腿",
+        "price": 5.5,
+        "net_content": 95,
+        "price_quantity": "",
+        "net_content_per_yuan": 17.27,
+        "energy": {
+          "label": 1132,
+          "total": 1075.4,
+          "per_yuan": 195.53
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "2022/1/12",
+      "serial_number": {
+        "main": 42,
+        "sub": 1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "[降价]芝士火腿",
+        "price": 5.0,
+        "net_content": 95,
+        "price_quantity": "",
+        "net_content_per_yuan": 19.0,
+        "energy": {
+          "label": 1132,
+          "total": 1075.4,
+          "per_yuan": 215.08
+        }
+      },
+      "comment": "2022/1/12"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 43,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "奥尔良肠仔包",
+        "price": 5.0,
+        "net_content": 90,
+        "price_quantity": "",
+        "net_content_per_yuan": 18.0,
+        "energy": {
+          "label": 1230,
+          "total": 1107.0,
+          "per_yuan": 221.4
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 44,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "三文治",
+        "price": 6.5,
+        "net_content": 100,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.38,
+        "energy": {
+          "label": 1156,
+          "total": 1156.0,
+          "per_yuan": 177.85
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 45,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "香松披萨",
+        "price": 6.0,
+        "net_content": 100,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.67,
+        "energy": {
+          "label": 1300,
+          "total": 1300.0,
+          "per_yuan": 216.67
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 46,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "杏仁瓦片",
+        "price": 20.0,
+        "net_content": 110,
+        "price_quantity": "",
+        "net_content_per_yuan": 5.5,
+        "energy": {
+          "label": 1293,
+          "total": 1422.3,
+          "per_yuan": 71.12
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 47,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "椰子球曲奇",
+        "price": 18.0,
+        "net_content": 170,
+        "price_quantity": "",
+        "net_content_per_yuan": 9.44,
+        "energy": {
+          "label": 1193,
+          "total": 2028.1,
+          "per_yuan": 112.67
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 48,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "瓜仁瓦片",
+        "price": 20.0,
+        "net_content": 90,
+        "price_quantity": "",
+        "net_content_per_yuan": 4.5,
+        "energy": {
+          "label": 1293,
+          "total": 1163.7,
+          "per_yuan": 58.19
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 49,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "全麦面片",
+        "price": 6.0,
+        "net_content": 160,
+        "price_quantity": "",
+        "net_content_per_yuan": 26.67,
+        "energy": {
+          "label": 1246,
+          "total": 1993.6,
+          "per_yuan": 332.27
+        }
+      },
+      "comment": "与30号数据相近"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 50,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "寿司卷",
+        "price": 6.0,
+        "net_content": 120,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1230,
+          "total": 1476.0,
+          "per_yuan": 246.0
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 51,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "芝士鸡扒汉堡",
+        "price": 6.5,
+        "net_content": 100,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.38,
+        "energy": {
+          "label": 1462,
+          "total": 1462.0,
+          "per_yuan": 224.92
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 52,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "迷你泡芙",
+        "price": 6.5,
+        "net_content": 105,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.15,
+        "energy": {
+          "label": 1544,
+          "total": 1621.2,
+          "per_yuan": 249.42
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 53,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "低脂全麦面包",
+        "price": 12.0,
+        "net_content": 300,
+        "price_quantity": "",
+        "net_content_per_yuan": 25.0,
+        "energy": {
+          "label": 1277,
+          "total": 3831.0,
+          "per_yuan": 319.25
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 54,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "提子方包",
+        "price": 12.0,
+        "net_content": 300,
+        "price_quantity": "",
+        "net_content_per_yuan": 25.0,
+        "energy": {
+          "label": 1177,
+          "total": 3531.0,
+          "per_yuan": 294.25
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 55,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "皇后吐司",
+        "price": 12.0,
+        "net_content": 290,
+        "price_quantity": "",
+        "net_content_per_yuan": 24.17,
+        "energy": {
+          "label": 1668,
+          "total": 4837.2,
+          "per_yuan": 403.1
+        }
+      },
+      "comment": "实为原味吐司\n但能量异常高"
+    },
+    {
+      "creation_date": "2022/2/17",
+      "serial_number": {
+        "main": 56,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "手撕面包",
+        "price": 12.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/17"
+    },
+    {
+      "creation_date": "2022/2/17",
+      "serial_number": {
+        "main": 57,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "红豆麻苔",
+        "price": 7.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/17"
+    },
+    {
+      "creation_date": "2022/2/17",
+      "serial_number": {
+        "main": 58,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "蒙古包",
+        "price": 5.0,
+        "net_content": 100,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1190,
+          "total": 1190.0,
+          "per_yuan": 238.0
+        }
+      },
+      "comment": "2022/2/17"
+    },
+    {
+      "creation_date": "2022/2/17",
+      "serial_number": {
+        "main": 59,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "小玉枕蛋糕",
+        "price": 8.0,
+        "net_content": 200,
+        "price_quantity": "",
+        "net_content_per_yuan": 25.0,
+        "energy": {
+          "label": 1240,
+          "total": 2480.0,
+          "per_yuan": 310.0
+        }
+      },
+      "comment": "2022/2/17"
+    },
+    {
+      "creation_date": "2022/2/18",
+      "serial_number": {
+        "main": 60,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "超软芝士",
+        "price": 5.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/18"
+    },
+    {
+      "creation_date": "2022/2/18",
+      "serial_number": {
+        "main": 61,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "麻吉",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/18"
+    },
+    {
+      "creation_date": "2022/2/18",
+      "serial_number": {
+        "main": 62,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "墨西哥奶酥",
+        "price": 5.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/18"
+    },
+    {
+      "creation_date": "2022/2/18",
+      "serial_number": {
+        "main": 63,
+        "sub": -1
+      },
+      "supplier": "[3]",
+      "product_data": {
+        "name": "红丝绒卷",
+        "price": 12.0,
+        "net_content": -1,
+        "price_quantity": "4块",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/18"
+    },
+    {
+      "creation_date": "2022/2/18",
+      "serial_number": {
+        "main": 64,
+        "sub": -1
+      },
+      "supplier": "[3]",
+      "product_data": {
+        "name": "北海道威风蛋糕",
+        "price": 12.0,
+        "net_content": -1,
+        "price_quantity": "3块",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/18"
+    },
+    {
+      "creation_date": "2022/2/18",
+      "serial_number": {
+        "main": 65,
+        "sub": -1
+      },
+      "supplier": "[3]",
+      "product_data": {
+        "name": "开口笑蛋糕",
+        "price": 15.0,
+        "net_content": -1,
+        "price_quantity": "4块",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/2/18"
+    },
+    {
+      "creation_date": "2022/3/31",
+      "serial_number": {
+        "main": 66,
+        "sub": -1
+      },
+      "supplier": "[3]",
+      "product_data": {
+        "name": "蔬菜肉松贝贝",
+        "price": 12.0,
+        "net_content": 160,
+        "price_quantity": "",
+        "net_content_per_yuan": 13.33,
+        "energy": {
+          "label": 833,
+          "total": 1332.8,
+          "per_yuan": 111.07
+        }
+      },
+      "comment": "2022/3/31"
+    },
+    {
+      "creation_date": "2022/2/24",
+      "serial_number": {
+        "main": 67,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "酸奶麻花",
+        "price": 8.0,
+        "net_content": 110,
+        "price_quantity": "",
+        "net_content_per_yuan": 13.75,
+        "energy": {
+          "label": 1180,
+          "total": 1298.0,
+          "per_yuan": 162.25
+        }
+      },
+      "comment": "2022/2/24"
+    },
+    {
+      "creation_date": "2022/2/24",
+      "serial_number": {
+        "main": 68,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "南瓜饼",
+        "price": 3.0,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 23.33,
+        "energy": {
+          "label": 1180,
+          "total": 826.0,
+          "per_yuan": 275.33
+        }
+      },
+      "comment": "2022/2/24"
+    },
+    {
+      "creation_date": "2022/2/24",
+      "serial_number": {
+        "main": 69,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "流金蛋糕",
+        "price": 5.5,
+        "net_content": 110,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1134,
+          "total": 1247.4,
+          "per_yuan": 226.8
+        }
+      },
+      "comment": "2022/2/24"
+    },
+    {
+      "creation_date": "2022/2/24",
+      "serial_number": {
+        "main": 70,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "巧克力甜甜圈",
+        "price": 5.0,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 14.0,
+        "energy": {
+          "label": 1180,
+          "total": 826.0,
+          "per_yuan": 165.2
+        }
+      },
+      "comment": "2022/2/24"
+    },
+    {
+      "creation_date": "2022/3/29",
+      "serial_number": {
+        "main": 71,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "蜂巢面包(门市)",
+        "price": 8.0,
+        "net_content": 125,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.63,
+        "energy": {
+          "label": 833,
+          "total": 1041.25,
+          "per_yuan": 130.16
+        }
+      },
+      "comment": "2022/3/29"
+    },
+    {
+      "creation_date": "0000/0/0",
+      "serial_number": {
+        "main": 72,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "丹麦相思",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": ""
+    },
+    {
+      "creation_date": "2022/3/24",
+      "serial_number": {
+        "main": 73,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "肉松陷卷",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/3/24\n2022/6/17_渠道"
+    },
+    {
+      "creation_date": "2022/4/2",
+      "serial_number": {
+        "main": 74,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "小贝肉松",
+        "price": 12.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/4/2"
+    },
+    {
+      "creation_date": "2022/4/7",
+      "serial_number": {
+        "main": 75,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "葡挞",
+        "price": 5.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/4/7"
+    },
+    {
+      "creation_date": "2022/4/7",
+      "serial_number": {
+        "main": 76,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "麻薯（紫）",
+        "price": 3.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/4/7"
+    },
+    {
+      "creation_date": "2022/4/7",
+      "serial_number": {
+        "main": 77,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "坚果红糖",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/4/7"
+    },
+    {
+      "creation_date": "2022/3/31",
+      "serial_number": {
+        "main": 78,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "芝士麻薯",
+        "price": 3.0,
+        "net_content": 30,
+        "price_quantity": "",
+        "net_content_per_yuan": 10.0,
+        "energy": {
+          "label": 1293,
+          "total": 387.9,
+          "per_yuan": 129.3
+        }
+      },
+      "comment": "2022/3/31"
+    },
+    {
+      "creation_date": "2022/3/31",
+      "serial_number": {
+        "main": 79,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "芝士棒饼干",
+        "price": 16.0,
+        "net_content": 100,
+        "price_quantity": "",
+        "net_content_per_yuan": 6.25,
+        "energy": {
+          "label": 1293,
+          "total": 1293.0,
+          "per_yuan": 80.81
+        }
+      },
+      "comment": "2022/3/31"
+    },
+    {
+      "creation_date": "2022/4/1",
+      "serial_number": {
+        "main": 80,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "蓝莓小点",
+        "price": 18.0,
+        "net_content": 150,
+        "price_quantity": "",
+        "net_content_per_yuan": 8.33,
+        "energy": {
+          "label": 1183,
+          "total": 1774.5,
+          "per_yuan": 98.58
+        }
+      },
+      "comment": "2022/4/1"
+    },
+    {
+      "creation_date": "2022/4/1",
+      "serial_number": {
+        "main": 81,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "丹麦吐司",
+        "price": 5.0,
+        "net_content": 75,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.0,
+        "energy": {
+          "label": 1293,
+          "total": 969.75,
+          "per_yuan": 193.95
+        }
+      },
+      "comment": "2022/4/1"
+    },
+    {
+      "creation_date": "2022/4/2",
+      "serial_number": {
+        "main": 82,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "牛奶手撕包",
+        "price": 6.0,
+        "net_content": 90,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.0,
+        "energy": {
+          "label": 1132,
+          "total": 1018.8,
+          "per_yuan": 169.8
+        }
+      },
+      "comment": "2022/4/2"
+    },
+    {
+      "creation_date": "2022/4/7",
+      "serial_number": {
+        "main": 83,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "相思密豆",
+        "price": 5.5,
+        "net_content": 140,
+        "price_quantity": "",
+        "net_content_per_yuan": 25.45,
+        "energy": {
+          "label": 1245,
+          "total": 1743.0,
+          "per_yuan": 316.91
+        }
+      },
+      "comment": "2022/4/7"
+    },
+    {
+      "creation_date": "2022/4/7",
+      "serial_number": {
+        "main": 84,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "寿司包",
+        "price": 5.5,
+        "net_content": 120,
+        "price_quantity": "",
+        "net_content_per_yuan": 21.82,
+        "energy": {
+          "label": 1230,
+          "total": 1476.0,
+          "per_yuan": 268.36
+        }
+      },
+      "comment": "2022/4/7\n与89号数据相近"
+    },
+    {
+      "creation_date": "2022/4/21",
+      "serial_number": {
+        "main": 85,
+        "sub": -1
+      },
+      "supplier": "[2]",
+      "product_data": {
+        "name": "红豆麻薯",
+        "price": 7.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/4/21"
+    },
+    {
+      "creation_date": "2022/4/21",
+      "serial_number": {
+        "main": 86,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "燕麦包",
+        "price": 4.0,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 17.5,
+        "energy": {
+          "label": 1224,
+          "total": 856.8,
+          "per_yuan": 214.2
+        }
+      },
+      "comment": "2022/4/21"
+    },
+    {
+      "creation_date": "2022/4/21",
+      "serial_number": {
+        "main": 87,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "紫菜卷",
+        "price": 5.0,
+        "net_content": 75,
+        "price_quantity": "",
+        "net_content_per_yuan": 15.0,
+        "energy": {
+          "label": 1293,
+          "total": 969.75,
+          "per_yuan": 193.95
+        }
+      },
+      "comment": "2022/4/21"
+    },
+    {
+      "creation_date": "2022/6/10",
+      "serial_number": {
+        "main": 88,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "沙拉面包",
+        "price": 5.5,
+        "net_content": 135,
+        "price_quantity": "",
+        "net_content_per_yuan": 24.55,
+        "energy": {
+          "label": 1190,
+          "total": 1606.5,
+          "per_yuan": 292.09
+        }
+      },
+      "comment": "2022/6/10"
+    },
+    {
+      "creation_date": "2022/6/10",
+      "serial_number": {
+        "main": 89,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "寿司卷",
+        "price": 5.5,
+        "net_content": 120,
+        "price_quantity": "",
+        "net_content_per_yuan": 21.82,
+        "energy": {
+          "label": 1230,
+          "total": 1476.0,
+          "per_yuan": 268.36
+        }
+      },
+      "comment": "2022/6/10\n与84号数据相近"
+    },
+    {
+      "creation_date": "2022/6/13",
+      "serial_number": {
+        "main": 90,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "香辣鸡扒汉堡(学)",
+        "price": 6.0,
+        "net_content": 120,
+        "price_quantity": "",
+        "net_content_per_yuan": 20.0,
+        "energy": {
+          "label": 1167,
+          "total": 1400.4,
+          "per_yuan": 233.4
+        }
+      },
+      "comment": "2022/6/13"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 91,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "培根芝士",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14\nM03660010"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 92,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "吐司面包",
+        "price": 12.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 93,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "一口芝士",
+        "price": 10.0,
+        "net_content": 75,
+        "price_quantity": "",
+        "net_content_per_yuan": 7.5,
+        "energy": {
+          "label": 1293,
+          "total": 969.75,
+          "per_yuan": 96.98
+        }
+      },
+      "comment": "2022/6/14\n2022/6/22_净含量/能量\n原价9.9元"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 94,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "遇见草莓",
+        "price": 15.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 95,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "黄金岩烤芝士",
+        "price": 9.9,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14\n有数据错误"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 96,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "菠萝奶酥",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 97,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "脆皮核桃",
+        "price": 6.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 98,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "遇见红豆",
+        "price": 12.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14\n有数据错误"
+    },
+    {
+      "creation_date": "2022/6/14",
+      "serial_number": {
+        "main": 99,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "黄金岩烧肉松",
+        "price": 13.0,
+        "net_content": -1,
+        "price_quantity": "",
+        "net_content_per_yuan": -1,
+        "energy": {
+          "label": -1,
+          "total": -1,
+          "per_yuan": -1
+        }
+      },
+      "comment": "2022/6/14\n有数据错误"
+    },
+    {
+      "creation_date": "2022/6/15",
+      "serial_number": {
+        "main": 100,
+        "sub": -1
+      },
+      "supplier": "[6]",
+      "product_data": {
+        "name": "红豆面包",
+        "price": 3.5,
+        "net_content": 85,
+        "price_quantity": "",
+        "net_content_per_yuan": 24.29,
+        "energy": {
+          "label": 1149,
+          "total": 976.65,
+          "per_yuan": 279.04
+        }
+      },
+      "comment": "2022/6/15"
+    },
+    {
+      "creation_date": "2022/6/16",
+      "serial_number": {
+        "main": 101,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "寿司蛋糕",
+        "price": 10.0,
+        "net_content": 160,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.0,
+        "energy": {
+          "label": 1929,
+          "total": 3086.4,
+          "per_yuan": 308.64
+        }
+      },
+      "comment": "2022/6/16"
+    },
+    {
+      "creation_date": "2022/6/16",
+      "serial_number": {
+        "main": 102,
+        "sub": -1
+      },
+      "supplier": "[4]",
+      "product_data": {
+        "name": "黄金虎皮卷",
+        "price": 10.0,
+        "net_content": 160,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.0,
+        "energy": {
+          "label": 859,
+          "total": 1374.4,
+          "per_yuan": 137.44
+        }
+      },
+      "comment": "2022/6/16"
+    },
+    {
+      "creation_date": "2022/6/20",
+      "serial_number": {
+        "main": 103,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "奶黄面包",
+        "price": 3.5,
+        "net_content": 85,
+        "price_quantity": "",
+        "net_content_per_yuan": 24.29,
+        "energy": {
+          "label": 1149,
+          "total": 976.65,
+          "per_yuan": 279.04
+        }
+      },
+      "comment": "2022/6/20"
+    },
+    {
+      "creation_date": "2022/6/22",
+      "serial_number": {
+        "main": 104,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "咸蛋面包",
+        "price": 6.0,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 11.67,
+        "energy": {
+          "label": 1293,
+          "total": 905.1,
+          "per_yuan": 150.85
+        }
+      },
+      "comment": "2022/6/22"
+    },
+    {
+      "creation_date": "2022/6/22",
+      "serial_number": {
+        "main": 105,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "酸奶蔓越莓",
+        "price": 4.0,
+        "net_content": 70,
+        "price_quantity": "",
+        "net_content_per_yuan": 17.5,
+        "energy": {
+          "label": 1293,
+          "total": 905.1,
+          "per_yuan": 226.28
+        }
+      },
+      "comment": "2022/6/22"
+    },
+    {
+      "creation_date": "2022/6/22",
+      "serial_number": {
+        "main": 106,
+        "sub": -1
+      },
+      "supplier": "[1]",
+      "product_data": {
+        "name": "奥利奥面包",
+        "price": 5.0,
+        "net_content": 80,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.0,
+        "energy": {
+          "label": 1293,
+          "total": 1034.4,
+          "per_yuan": 206.88
+        }
+      },
+      "comment": "2022/6/22"
+    },
+    {
+      "creation_date": "2022/6/23",
+      "serial_number": {
+        "main": 107,
+        "sub": -1
+      },
+      "supplier": "[5]",
+      "product_data": {
+        "name": "港式猪扒包(学)",
+        "price": 6.0,
+        "net_content": 100,
+        "price_quantity": "",
+        "net_content_per_yuan": 16.67,
+        "energy": {
+          "label": 1300,
+          "total": 1300.0,
+          "per_yuan": 216.67
+        }
+      },
+      "comment": "2022/6/23"
+    }
+  ],
+  "suppier_list": {
+    "[1]": {
+      "address": "六脉仙境-东源工厂直销",
+      "pack_desc": "可直接见于标签上"
+    },
+    "[2]": {
+      "address": "六脉仙境-帝豪店",
+      "pack_desc": "只写明品名与标价；有些只有标价无品名"
+    },
+    "[3]": {
+      "address": "六脉仙境-中骏世界城",
+      "pack_desc": "包装偏正式，色彩样式较多；可直接见于标签上"
+    },
+    "[4]": {
+      "address": "好莉思（不详）",
+      "pack_desc": ""
+    },
+    "[5]": {
+      "address": "好莉思-丰源社区水产综合市场",
+      "pack_desc": "可直接见于标签上"
+    },
+    "[6]": {
+      "address": "六脉仙境-河源市源城区昌盛街41号",
+      "pack_desc": "与帝豪店类似，但多了生产商信息"
+    }
+  }
+}
